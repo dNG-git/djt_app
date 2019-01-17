@@ -1,0 +1,7 @@
+.*
+nbproject
+/_extras
+/dist
+/djt_app.*
+/lib
+/node_modules
